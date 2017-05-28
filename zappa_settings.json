@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "s3_bucket": "zf109-test-bucket",
+        "app_function": "my_app.app"
+    }
+}
